@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "53629397633",
+    "project_id": "diaryapp-34a91",
+    "storage_bucket": "diaryapp-34a91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53629397633:android:0e949028651037fbe07b80",
+        "android_client_info": {
+          "package_name": "com.alprival.diary_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53629397633-cu0pidb2i93aijg2qnjkrg2mja7nj82d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alprival.diary_app",
+            "certificate_hash": "bfd3b4af9933332424cca658dfe6246d5f736480"
+          }
+        },
+        {
+          "client_id": "53629397633-49bvmbpi6alfd2ec4jh12a8knk9f09fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkwLAy0h2zQzvUi9fzL_mQhcUtv4EvTig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53629397633-49bvmbpi6alfd2ec4jh12a8knk9f09fe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "53629397633-d6t519ec9fuq4bgg0ae5fhr1ufcgc6gu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alprival.diaryapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
